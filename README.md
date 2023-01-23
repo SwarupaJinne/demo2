@@ -23,4 +23,5 @@ __bold__
 
 More text
 Take me to google [please](https://www.google.com/)
-Give me another markdown page[Click me](another.md)
+--------------------------------------------------------------
+Give me another markdown page [Click me](another.md)
