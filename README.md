@@ -25,3 +25,5 @@ More text
 Take me to google [please](https://www.google.com/)
 --------------------------------------------------------------
 Give me another markdown page [Click me](another.md)
+
+We want an image! 
