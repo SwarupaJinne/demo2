@@ -74,5 +74,33 @@ This is an equation $f(x_n) = (x+1)^:(z+1)$
 
 
 *[AboutMe.md](https://github.com/SwarupaJinne/demo2/blob/main/AboutMe.md)*
+  
+-------------------------
+  
+  # Javascript
+> 
 
+[Click Here for Question](https://www.edureka.co/blog/interview-questions/top-50-html-interview-questions-and-answers/)
+  
+[Click Here for code link](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+  
+  questionlink   https://www.edureka.co/blog/interview-questions/top-50-html-interview-questions-and-answers/
+  
+  code link    https://css-tricks.com/snippets/html/post-data-to-an-iframe/
+  
+  ```
+  
+  <form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+  
+  
+  
 
