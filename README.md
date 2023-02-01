@@ -28,6 +28,26 @@ Give me another markdown page [Click me](another.md)
 
 We want an image! 
 
+------------------
+# 4 cities i  loved and i would love to suggest
+I am going to create a table with 4 cities that I would love to recommend someone to visit = London, Sydney ,Paris , Mumbai.
+
+|name of the city |locations to visit | duration|
+|---|---|---|
+|London|Buckingham Palace|30 minutes|
+|Sydney|Opera House|45 minutes|
+|Paris|Eiffel Tower|35 minutes|
+|Mumbai|Gateway of India|20 minutes|
+
+--------------------------------
+# Pithy Quotes
+
+> “I'm sick of following my dreams, man. I'm just going to ask where they're going and hook up with ’em later."  -Mitch Hedberg
+
+<Br>
+
+> “My mother always used to say: The older you get, the better you get, unless you’re a banana.”  -Rose
+
 
 This is a truth table
 | P | Q | P and Q |
