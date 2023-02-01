@@ -80,13 +80,11 @@ This is an equation $f(x_n) = (x+1)^:(z+1)$
   # Javascript
 > 
 
-[Click Here for Question](https://www.geeksforgeeks.org/radio-button-vs-checkbox-in-html/)
+[Question](https://www.geeksforgeeks.org/radio-button-vs-checkbox-in-html/)
   
-[Click Here for code link](https://www.geeksforgeeks.org/radio-button-vs-checkbox-in-html/)
+[Source code link](https://www.geeksforgeeks.org/radio-button-vs-checkbox-in-html/)
   
-  questionlink   https://www.edureka.co/blog/interview-questions/top-50-html-interview-questions-and-answers/
   
-  code link    https://css-tricks.com/snippets/html/post-data-to-an-iframe/
   
   ```
   
