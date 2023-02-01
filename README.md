@@ -53,6 +53,6 @@ This is an equation $f(x_n) = (x+1)^:(z+1)$
 
 
 
-*[AboutMe.md](AboutMe.md)*
+*[AboutMe.md](https://github.com/SwarupaJinne/demo2/blob/main/AboutMe.md)*
 
 
